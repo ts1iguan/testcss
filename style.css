@@ -1,0 +1,32 @@
+body {
+	background: yellow !important;
+}
+
+#calendar .fc-content {
+    position: absolute;
+    left: 0;
+    right: 0;
+    background-color: #FFFFFF;
+}
+
+
+/*
+        <div id="calendar" class="fc fc-ltr" style="">
+              <table class="fc-header">
+                  .
+                  .
+                  .
+                  .
+              </table>
+
+              <div class="fc-content" style="position: relative;">
+                    .
+                    .
+                    .
+                    .
+              </div>
+         </div>
+
+         // Remove please  ( style="position: relative; ) attribute in every .html files where have a this calendar
+
+*/
